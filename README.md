@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sdi2000012
+- 👋 Hi, I’m @sdi2000012 (or trospe)
 - 👀 I’m interested in programming duh
 - 🌱 I’m currently learning OOP
 - 📫 How to reach me: 
